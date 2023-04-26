@@ -1,3 +1,3 @@
-POO: Herança
+POO: Herança & Polimorfismo
 
-Exercícios Poo: Herança - Generation Brasil
+Exercícios Poo - Generation Brasil
