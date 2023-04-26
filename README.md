@@ -1,1 +1,3 @@
-# poo_heranca
+# Poo: Herança
+
+Exercícios sobre Herança(Inheritance) - Generation Brasil
